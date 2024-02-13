@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me email: oeihayton@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I was a former tech investment banker and graduated from the University of Chicago with a BA in Economics 
+- ⚡ Fun fact: I'm a former tech investment banker and graduated from the University of Chicago with a BA in Economics 
 
 <!---
 haytonoei/haytonoei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
