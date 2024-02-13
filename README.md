@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @haytonoei
 - 👀 I’m interested in fitness tech and advertising solutions in an evolving privacy landscape. This includes cookieless tracking, Apple ATT and SKAN, Google Privacy Sandbox, on-device optimization, clean room aggregated insights (LiveRamp, Habu), trustued execution enviroment (Intel SGX, AMD PSP), secure multi-party computation and homomorphic encryption  
 - 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me email: oeihayton@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I was a former tech investment banker and graduated from the University of Chicago with a BA in Economics 
